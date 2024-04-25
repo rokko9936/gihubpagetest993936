@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name": "Helado sanguchito",
+        "img": "./img/sandwich-nata.jpg",
+        "extraInfo": "Caja 6 ud. (600 ml)",
+        "price": 1.2
+    },
+    {
+        "id":2,
+        "name": "Helado de Vainilla",
+        "img": "./img/cucuruchos-vainilla.jpg",
+        "extraInfo": "Caja 6 ud. (720 ml)",
+        "price": 1.55
+    },
+    {
+        "id":3,
+        "name": "Helados Surtidos",
+        "img": "./img/mini-surtido.jpg",
+        "extraInfo": "Caja 6 ud. (720 ml)",
+        "price": 1.55
+    },
+    {
+        "id":4,
+        "name": "Helado doble saguchito de nata",
+        "img": "./img/sandwich-doble.jpg",
+        "extraInfo": "Caja 6 ud. (480 ml)",
+        "price": 1.99
+    },
+    {
+        "id":5,
+        "name": "Helado de Fresa",
+        "img": "./img/fresa-hielo.jpg",
+        "extraInfo": "Caja 10 ud. (750 ml)",
+        "price": 1.66
+    },
+    {
+        "id":6,
+        "name": "Helado Mr. Toddy",
+        "img": "./img/yogoice.jpg",
+        "extraInfo": "Caja 8 ud. (450 ml)",
+        "price": 1.7
+    },
+    {
+        "id":7,
+        "name": "Helado de Chocolate",
+        "img": "./img/huevo.jpg",
+        "extraInfo": "Pote de 1 L.",
+        "price": 2.33
+    },
+    {
+        "id":8,
+        "name": "Helado de Coco",
+        "img": "./img/medio-coco-helado.jpg",
+        "extraInfo": "Caja 2 ud. (330 ml)",
+        "price": 2.04
+    },
+    {
+        "id":9,
+        "name": "Frio Rico Chocochips",
+        "img": "./img/frio-rico-choco.jpg",
+        "extraInfo": "Caja 4 ud. (520 ml)",
+        "price": 18.04
+    }
+
+]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="shortcut icon" href="#" />
+    <script src="./JS/jquery.min.js"></script>
+    <script src="./JS/popper.min.js"></script>
+    <script src="./JS/bootstrap.min.js"></script>
+    <script src="./JS/index.js"></script>
+
+
+</head>
+<body>
+    <!-- navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark  bg-dark">
+        <h1 class="tienda__virtual">Tienda Virtual</h1>
+        <div class="container">
+            <img src="./img/logo.png" alt="Tienda Virtual" class="logo"/>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./">
+                            Home
+                        </a>
+                    </li>
+                </ul>
+                <div class="cart-container">
+                    <button class="btn btn-secondary cart" type="button" onclick="openCloseCart()">
+                        <img src="./img/cart.png" alt="Carrito"/>
+                    </button>
+                    <div class="cart-products hidden">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!--product list-->
+    <div class="container product-list">
+        <div class="row products">
+
+        </div>
+    </div>
+</body>
+</html>
